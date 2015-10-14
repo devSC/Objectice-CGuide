@@ -12,8 +12,11 @@
 ------Code by Swift---------
 
 `iBBS-Swift`: A BBS client in swift (swift 2.0). [github](https://github.com/iAugux/iBBS-Swift)
-`PlayMoney`: A Money Manager for Board Games(swift 2.0) [github](https://github.com/richardxyx/Play-Money/tree/master/Play%20Money)
+
+`PlayMoney`: A Money Manager for Board Games(swift 2.0)[github](https://github.com/richardxyx/Play-Money/tree/master/Play%20Money)
+
 `SimpleMemo`:已上架应用“易便签”的源代码 [github](https://github.com/likumb/SimpleMemo)
+
 `VPNOn`: [github](https://github.com/lexrus/VPNOn)
 
 ##Animation
