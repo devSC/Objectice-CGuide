@@ -9,6 +9,8 @@
 
 `MrCode`:  is a simple GitHub iPhone App that can cache Markdown content (include images in HTML) for read it later [github](https://github.com/haolloyin/MrCode) 
 
+`PHPHub`: PHPHub for iOS is the universal iPhone and iPad application for PHPHub https://phphub.org/ [github](https://github.com/Aufree/phphub-ios/tree/master/PHPHub)
+
 ------Code by Swift---------
 
 `iBBS-Swift`: A BBS client in swift (swift 2.0). [github](https://github.com/iAugux/iBBS-Swift)
