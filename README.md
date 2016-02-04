@@ -29,6 +29,8 @@
 
 `furni`:Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform.(swift 2.0)[Github](https://github.com/twitterdev/furni-ios)
 
+`Pingo`:(swift 2.0)[Github](https://github.com/gaowanli/PinGo)
+
 
 
 ##Animation
