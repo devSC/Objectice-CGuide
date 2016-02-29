@@ -11,6 +11,8 @@
 
 `PHPHub`: PHPHub for iOS is the universal iPhone and iPad application for PHPHub https://phphub.org/ [Github](https://github.com/Aufree/phphub-ios/tree/master/PHPHub)
 
+`Telegram`: Telegram Messenger for iOS:[Github](https://github.com/peter-iakovlev/Telegram)
+
 ------Code by Swift---------
 
 `iBBS-Swift`: A BBS client in swift (swift 2.0). [Github](https://github.com/iAugux/iBBS-Swift)
