@@ -41,3 +41,7 @@
 
 `FoldingCell`[Github](https://github.com/Ramotion/folding-cell)
 ![img](https://github.com/Ramotion/folding-cell/blob/master/Screenshots/folding-cell.gif)
+
+##Other
+
+`open-source-ios-apps`:[Github](https://github.com/dkhamsing/open-source-ios-apps)
