@@ -33,6 +33,8 @@
 
 `Pingo`:(swift 2.0)[Github](https://github.com/gaowanli/PinGo)
 
+`TSWeChat`:A high copy WeChat, Written by Swift.(Swift 2.0)[Github]https://github.com/hilen/TSWeChat
+
 
 
 ##Animation
