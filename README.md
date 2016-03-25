@@ -33,8 +33,9 @@
 
 `Pingo`:(swift 2.0)[Github](https://github.com/gaowanli/PinGo)
 
-`TSWeChat`:A high copy WeChat, Written by Swift.(Swift 2.0)[Github]https://github.com/hilen/TSWeChat
+`TSWeChat`:A high copy WeChat, Written by Swift.(Swift 2.0)[Github](https://github.com/hilen/TSWeChat)
 
+`Coderpursue`: Github client for iOS in Swift.(Swift 2.0)[Github](https://github.com/wenghengcong/Coderpursue)
 
 
 ##Animation
