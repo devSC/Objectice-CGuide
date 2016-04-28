@@ -37,6 +37,7 @@
 
 `Coderpursue`: Github client for iOS in Swift.(Swift 2.0)[Github](https://github.com/wenghengcong/Coderpursue)
 
+`NirZhihuDaily2.0`:Swift精仿知乎日报iOS端[Github](https://github.com/zpz1237/NirZhihuDaily2.0)
 
 ##Animation
 `CardAnimation`: There are two style implement, auto layout and frame-based layout.[Github](https://github.com/seedante/CardAnimation)
