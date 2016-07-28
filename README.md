@@ -45,7 +45,7 @@
 
 `Celluloid`:The Best Photo Extension APP on iOS(Swift 2.0) [Github](https://github.com/100mango/Celluloid)
 
-`RaceMe`:RaceMe is a run tracking + ghosting iOS mobile application. [Github](https://github.com/enochng1/RaceMe)
+`RaceMe`:RaceMe is a run tracking + ghosting iOS mobile application.(Swift 2.0) [Github](https://github.com/enochng1/RaceMe)
 
 ##Animation
 `CardAnimation`: There are two style implement, auto layout and frame-based layout.[Github](https://github.com/seedante/CardAnimation)
