@@ -61,8 +61,6 @@
 
 `open-source-ios-apps`:[Github](https://github.com/dkhamsing/open-source-ios-apps)
 
-###Filter
-
 `Sharaku`:Image filtering UI library like Instagram.[Github](https://github.com/makomori/Sharaku)
 
 ![img](https://github.com/makomori/Sharaku/blob/master/sharaku_animation.gif)
