@@ -61,6 +61,8 @@
 
 `open-source-ios-apps`:[Github](https://github.com/dkhamsing/open-source-ios-apps)
 
-`Sharaku`:Image filtering UI library like Instagram.[Github](https://github.com/makomori/Sharaku)
+`Sharaku`:Image filtering UI library like Instagram.(Swift 3.0)[Github](https://github.com/makomori/Sharaku)
 
 ![img](https://github.com/makomori/Sharaku/blob/master/sharaku_animation.gif)
+
+`Material`: [An animation and graphics framework for Material Design in Swift.](https://github.com/CosmicMind/Material)
