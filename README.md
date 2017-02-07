@@ -47,6 +47,8 @@
 
 `RaceMe`:[RaceMe is a run tracking + ghosting iOS mobile application.(Swift 2.0)](https://github.com/enochng1/RaceMe)
 
+`Swift30Projects`:[30 mini Swift Apps]https://github.com/soapyigu/Swift30Projects
+
 ###RxSwift
 
  `RxTodo`:[iOS Todo Application with RxSwift + MVVM ](https://github.com/devxoul/RxTodo)
